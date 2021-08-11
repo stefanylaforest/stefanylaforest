@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/66086002/129068585-7aa44648-4bd5-4754-bc1a-c2874e224136.png" alt="banner"/>
+
+## Hi there ✨
 
 <!--
 **stefanylaforest/stefanylaforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
