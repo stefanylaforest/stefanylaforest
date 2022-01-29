@@ -2,9 +2,7 @@
 
 ## ✨ How To Reach me ✨
 
-- Personal Site: https://www.stefanylaforest.com
 - LinkedIn: https://linkedin.com/in/stefanylaforest
-- Mostly Travels IG: https://instagram.com/stefanyeve
 
 <!--
 **stefanylaforest/stefanylaforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
