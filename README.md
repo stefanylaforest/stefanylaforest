@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/66086002/129068585-7aa44648-4bd5-4754-bc1a-c2874e224136.png" alt="banner"/>
 
-## ✨ How To Reach me ✨
+
+## ✨ How To Reach me 
 
 - LinkedIn: https://linkedin.com/in/stefanylaforest
 
