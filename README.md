@@ -1,12 +1,13 @@
 
 
-## ✨ Hi There
+## Hi There, I'm Stef 🧚
 
 
 - 🔭 I’m currently working at Spiria as a Software Developer
 - 🌱 I’m currently learning GraphQL and NestJS
 - 📫 You can reach me on LinkedIn: https://linkedin.com/in/stefanylaforest
 - 😄 My Pronouns are she/her
+- 📈 My dream project would be working on FinTech project as I love trading and investing.
 - ⚡ Fun fact: I love travelling! In my previous career, I spent 5 years living in Africa 🌍 working for the United Nations. By 30, I had already travelled to over 50 countries. I have a curious soul 🕵️‍ and I am not afraid of a challenge. This is why I pivoted to a career in programming. 
 
 <!--
